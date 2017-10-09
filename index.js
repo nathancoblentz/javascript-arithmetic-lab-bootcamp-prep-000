@@ -15,6 +15,6 @@ function divide(a, b) {
 }
 
 function inc(n) {
-  var n = 80 
+  var n = 80
   return n++
 }
